@@ -18,6 +18,8 @@ kubectl apply -f https://raw.githubusercontent.com/netology-code/kuber-homeworks
 3. Исправить проблему, описать, что сделано.
 4. Продемонстрировать, что проблема решена.
 
+Ссылка на манифест - https://github.com/deadwhitepunk/hw-k8s-12/blob/main/task.yaml
+
 Первое что нас встречает это отсутствие namespace, создаем их.
 
 ![Create namespaces](https://github.com/deadwhitepunk/hw-k8s-12/blob/main/img/create_ns.png)
